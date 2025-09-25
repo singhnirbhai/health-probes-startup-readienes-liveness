@@ -1,7 +1,4 @@
 
-[! - Health Probes in kubernetes](https://img.youtube.com/vi/x2e6pIBLKzw/sddefault.jpg)](https://youtu.be/x2e6pIBLKzw)
-
-
 # What are health probes in Kubernetes?
 - Health probes monitor your Kubernetes applications and take necessary actions to recover from failure
 - To ensure your application is highly available and self-healing
