@@ -13,8 +13,7 @@
 
 ### Health probes
 
-![image](https://github.com/user-attachments/assets/95f34a79-4956-4555-b33d-aeddf86653c5)
-
+![image](https://github.com/singhnirbhai/health-probes-startup-readienes-liveness/blob/main/generated-image.png)
 ### Sample YAML
 
 #### liveness-http and readiness-http
